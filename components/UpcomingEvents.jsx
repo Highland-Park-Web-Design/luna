@@ -3,37 +3,22 @@ import React from "react";
 function UpcomingEvents() {
   const upcomingEvents = [
     {
-      date: "Sat 28 Oct",
-      time: "20:00pm EST",
-      name: "ANANES NULU MOVEMENT HALLOWEEN EDITION",
+      date: "Sat 15 Feb",
+      time: "TBD",
+      name: "96 Morgan on Feb 15th (morning) afters ",
       city: "New York",
       state: "United States",
-      link: "https://www.nulumusic.com/rsvp-nulu-movement-party/",
+      link: "/",
     },
     {
-      date: "TBA",
-      time: "00:00pm EST",
-      name: "To be decided",
+      date: "Thu 27 Feb",
+      time: "TBD",
+      name: "Outer Heaven",
       city: "New York",
       state: "United States",
       link: "",
     },
-    {
-      date: "TBA",
-      time: "00:00pm EST",
-      name: "To be decided",
-      city: "New York",
-      state: "United States",
-      link: "",
-    },
-    {
-      date: "TBA",
-      time: "00:00pm EST",
-      name: "To be decided",
-      city: "New York",
-      state: "United States",
-      link: "",
-    },
+   
   ];
   return (
     <div className="px-10 md:px-20 pt-40" id="events">
