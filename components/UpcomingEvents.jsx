@@ -5,7 +5,7 @@ function UpcomingEvents() {
     {
       date: "Sat 15 Feb",
       time: "TBD",
-      name: "96 Morgan on Feb 15th (morning) afters ",
+      name: "96 Morgan ",
       city: "New York",
       state: "United States",
       link: "/",
